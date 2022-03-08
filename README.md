@@ -1,3 +1,1 @@
-# proyectos
-# curso
 # curso
